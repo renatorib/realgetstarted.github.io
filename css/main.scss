@@ -6,8 +6,12 @@
 
 
 // Our variables
+$font-body: 'Helvetica', 'Open Sans', sans-serif;
+$font-head: 'Roboto Slab', serif;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import "reboot";
 @import "base";
 @import "header";
+@import "home"
+

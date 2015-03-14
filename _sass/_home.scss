@@ -1,0 +1,21 @@
+.home {
+  position: relative;
+  padding: 0 25px;
+
+  .post-list {
+    position: relative;
+    
+    li {
+      padding: 70px 0;
+      text-align: center;
+
+      span.post-meta {
+        font: 200 .875em $font-body;
+      }
+
+      h2 {
+        font: 400 2em $font-head;
+      }
+    }
+  }
+}
